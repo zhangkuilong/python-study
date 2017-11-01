@@ -1,2 +1,0 @@
-# python-study
-firstyear-python
